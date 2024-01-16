@@ -1,0 +1,4 @@
+{
+    "blackTShirt":{ "name": "Black T-Shirt", "price": "15" },
+    "whitePants":{ "name": "White Pants", "price": "20" }
+}
